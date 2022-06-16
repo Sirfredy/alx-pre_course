@@ -1,1 +1,4 @@
-The school is open!
+The school is openv  f
+#!/bin/bash
+echo "School"
+
